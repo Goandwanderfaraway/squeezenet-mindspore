@@ -489,7 +489,10 @@ visualize_model("./squeezenet.ckpt", dataset_eval)
 
 <img src="https://636c-cloud1-3gypehkveda97589-1311160254.tcb.qcloud.la/squeezenet%E5%9B%BE%E7%89%87/QQ%E5%9B%BE%E7%89%8720221108213111.jpg?sign=7e9c49191801159551875debd3a0a103&t=1667914336" width=60%  />
 
-< /div>
+</div>
+
+## 
 
 ## 总结
+
 本案例使用MindSpore框架实现了SqueezeNet训练CIFAR10数据集并且评估模型的完整过程，包括数据集的下载和处理，模型的搭建，模型的训练，以及模型的测试评估和保存，最后我们可视化了模型的预测效果，通过次案例我们可以对SqueezeNet的原理有更加深刻的了解，并且更加熟悉MindSpore框架的基本使用方法。
